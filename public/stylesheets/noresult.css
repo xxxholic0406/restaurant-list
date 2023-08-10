@@ -1,0 +1,16 @@
+.result-title{
+    margin: 0 auto;
+    color:#666666;
+    font-size: 1.5rem;
+    max-width: 680px;
+    padding: 20px 30px;
+    border: 0;
+}
+
+.result.section{
+    margin: 0 auto;
+    max-width: 680px;
+    padding: 20px 30px;
+    border: 0;
+}
+
