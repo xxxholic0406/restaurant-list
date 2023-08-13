@@ -1,5 +1,7 @@
 # Restaurant List
-![Project Image] (https://github.com/xxxholic0406/restaurant-list/blob/main/%E6%88%AA%E5%9C%96%202023-08-13%20%E4%B8%8B%E5%8D%886.50.14.png)
+![image](https://raw.githubusercontent.com/xxxholic0406/restaurant-list/main/%E6%88%AA%E5%9C%96%202023-08-13%20%E4%B8%8B%E5%8D%886.50.14.png)
+
+
 This is simple web applicaiotn for user to find retaurant in the list and its information.
 
 ## Installation
